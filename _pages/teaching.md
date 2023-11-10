@@ -11,7 +11,7 @@ nav_order: 5
 
 ### Instructor
 
-- Street and Highway Design, Spring 2023 -[syllabus](http://fortawesome.github.io/Font-Awesome/)
+- Street and Highway Design, Spring 2023 -[syllabus](https://buyutu.github.io/assets/pdf/CE4720_5720_Syllabus_Spring2023_v8_finalexam.pdf)
 
 
 ### Teaching Assistant
