@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://buyutu.github.io/buyutu.github.io/sitemap.xml
+Sitemap: https://buyutu.github.io/sitemap.xml
