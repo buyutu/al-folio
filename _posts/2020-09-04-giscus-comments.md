@@ -2,7 +2,7 @@
 layout: post
 title: 3 Lessons from China’s Rocket Growth in Electric Vehicles
 date: 2020-09-04 11:59:00-0400
-description: China’s experience in promoting electric mobility is unique
+description: China’s experience in promoting electric mobility
 tags: comments EV
 categories: sample-posts external-services
 giscus_comments: true
