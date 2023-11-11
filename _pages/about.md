@@ -16,8 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About me
+I am a Ph.D. Candidate of [UConn](https://uconn.edu/) with systems-thinking competency in transportation engineering and planning. I am driven by lofty ideals, helping other people to live a harmonious life through urban transportation research. I enjoy exploring urban transportation issues such as street design, road safety, and transport policy, from a perspective of sustainability, equity, and humanity. My 5+ years' experience as a transportation engineering researcher equips me with interdisciplinary thinking including urban planning, geography, and data science. I have demonstrated my skills in quantitative methods, scientific communication, and data visualization.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have a deep passion in applying data-driven approaches to tackle problems in pedestrian & bicycle safety from perspectives of sustainability, equity, and humanity.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Personal Life
+In my free time, I love [taking photos](https://ge-photograph.github.io/), traveling, food, and playing basketball. Recently, I am into time-lapse photography and flying my Drone. I plan to get a [Osmo Action 4](https://dji.com/osmo-action-4) to cpature videos in motion (hiking, biking, citywalk)
