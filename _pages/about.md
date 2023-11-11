@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. Candidate in Transportation and Urban Engineering at the University of Connecticut
 
 profile:
   align: right
