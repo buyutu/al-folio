@@ -6,6 +6,6 @@ nav: true
 nav_order: 4
 cv_pdf: CV_GS.pdf
 description:  “What's past is prologue.”
-toc:
-  sidebar: left
+# toc:
+#  sidebar: left
 ---
