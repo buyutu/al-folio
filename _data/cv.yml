@@ -3,10 +3,12 @@
   contents:
     - name: Full Name
       value: Ge Shi
-    - name: Date of Birth
-      value: 14th March 1879
+    # - name: Date of Birth
+    #  value: 14th March 1879
+    - name: Email
+      value: <a href='mailto:ge.shi@uconn.edu'>ge.shi@uconn.edu</a></p>
     - name: Languages
-      value: English, German
+      value: English, Mandarin
 
 - title: Education
   type: time_table
