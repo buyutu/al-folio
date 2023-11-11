@@ -136,10 +136,10 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: buyutu/buyutu.github.io                         # <your-github-user-name>/<your-github-repo-name>
-  data-repo-id: "R_kgDOKr5img"
+  repo: buyutu/buyutu                         # <your-github-user-name>/<your-github-repo-name>
+  repo-id: R_kgDOKr5img
   category: Comment             # name of the category under which discussions will be created
-  data-category-id: "DIC_kwDOKr5ims4Ca4U6"
+  category-id: DIC_kwDOKr5ims4Ca4U6
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
