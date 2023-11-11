@@ -35,61 +35,74 @@
       institution: University of Connecticut
       year: 2019 - ongoing
       description:
-        - Selected Project 1: The evolution of road safety outcomes in the U.S.A, compared to the Netherlands
-        - Selected Project 2: Synthesis of Safe System principles in Sweden and the Netherlands
-        - Selected Project 3: Eff ects of the Vision Zero approach in New York City
+        - "Selected Project 1: The evolution of road safety outcomes in the U.S.A, compared to the Netherlands"
+        - "Selected Project 2: Synthesis of Safe System principles in Sweden and the Netherlands"
+        - "Selected Project 3: Eff ects of the Vision Zero approach in New York City"
 
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Research Intern on Sustainable Transport Policy
+      institution: World Resources Institute (USA) Beijing Representative Oﬀice
+      year: Jan. 2019 - Jun. 2019
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: City Assistant Analyst
+      institution: Beijing City Quadrant Technology Co., Ltd.
+      year: Sept. 2018 - Dec. 2018
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Full-time Intern
+      institution: China Railway Fifth Survey and Design Institute Group Co., Ltd.
+      year: Jul. 2015 - Aug. 2015
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Publications
+  type: map
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      - name: 
+        value: See the <a href="https://buyutu.github.io/publications/">Publications</a> page and <a href="https://scholar.google.com/citations?user=FMjmEsYAAAAJ">Google Scholar</a> for a full list of publications.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Doctoral Dissertation Fellowship , Awarded by The Graduate School of University of Connecticut
+
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - "Best Paper Award , Awarded by TRB’s ACS10: Transportation Safety Management Systems Committee"
+
+    - year: 2022
+      items: 
+        - Conference Participation Award , Awarded by The Graduate School of University of Connecticut
+
+- title: Skills
+  type: map
+  contents:
+    - name: Software 
+      value: PTV Vissim, HCS, Passer, Synchro, QGIS, ArcGIS, Trans AutoCAD
+    - name: Programming
+      value: Python, R, Julia, Java
+    - name: Other
+      value: Scientific Writing, Qualitative Research, Data Analysis, Visualization
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Pedestrian and Bicyclist Safety
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Street design
+        - Urban design and land use design
+    - title: Sustainable Transportation
       items:
-        - Description 1.
-        - Description 2.
+        - Sustainable Safety
+        - Urban informatics 
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
