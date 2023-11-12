@@ -136,7 +136,7 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: buyutu/buyutu.github.io     # <your-github-user-name>/<your-github-repo-name>
+  repo: # buyutu/buyutu.github.io     # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOKr5img
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOKr5ims4Ca4U6
