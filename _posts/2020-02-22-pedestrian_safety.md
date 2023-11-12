@@ -3,8 +3,8 @@ layout: post
 title: Track Pedestrian Safety in past 5 years in The state of Connecticut
 date: 2020-02-22 11:59:00-0400
 description: # China’s experience in promoting electric mobility
-tags: comments Transportation Pedestrian Visualization
-categories: sample-posts external-services
+tags: transportation pedestrian visualization
+categories: project
 giscus_comments: true
 related_posts: false
 ---
