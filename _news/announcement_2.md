@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :partying_face:
+I successfully defended my Ph.D. dissertation. :partying_face:
