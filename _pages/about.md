@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Transportation and Urban Engineering at the University of Connecticut
+subtitle: Transportation Researcher; Ph.D. in Transportation and Urban Engineering at the University of Connecticut
 
 profile:
   align: right
