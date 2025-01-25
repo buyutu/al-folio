@@ -22,4 +22,4 @@ I earned my Ph.D. from [UConn](https://uconn.edu/) in transportation engineering
 I have a deep passion in applying data-driven approaches to tackle problems in pedestrian & bicycle safety from perspectives of sustainability, equity, and humanity.
 
 ### Personal Life
-In my free time, I love [taking photos](https://ge-photograph.github.io/), traveling, food, and playing basketball. Recently, I am into time-lapse photography and flying my Drone. I plan to get a [Osmo Action 4](https://dji.com/osmo-action-4) to cpature videos in motion (hiking, biking, citywalk)
+In my free time, I love [taking photos](https://ge-photograph.github.io/), traveling, food, and playing basketball. Recently, I am into time-lapse photography and flying my Drone. I have a [Osmo Action 4](https://dji.com/osmo-action-4) to cpature videos in motion (hiking, biking, citywalk)
